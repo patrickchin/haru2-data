@@ -1,0 +1,95 @@
+# Wavefront material file
+# Created with Visionworkplace.com product
+newmtl Gypsum_Wall_Board
+Kd 0.9764706 0.9764706 0.9764706
+d 1
+newmtl Default_Wall
+Kd 0.5019608 0.5019608 0.5019608
+d 1
+newmtl Brick,_Common
+Kd 0.6666667 0.3921569 0.4117647
+d 1
+newmtl Door_-_Frame
+Kd 0.4627451 0.2745098 0.2
+d 1
+newmtl Door_-_Panel
+Kd 0.8235294 0.6235294 0.372549
+d 1
+newmtl Cherry
+Kd 0.8862745 0.6941177 0.5019608
+d 1
+newmtl Glass
+Kd 0 0.5019608 0.7529412
+d 0.1617647
+newmtl Sash
+Kd 0.8784314 0.6980392 0.4941176
+d 1
+newmtl Trim
+Kd 0.8784314 0.6980392 0.4941176
+d 1
+newmtl Window_Frame
+Kd 0.9764706 0.9764706 0.9764706
+d 1
+newmtl Steel,_Paint_Finish,_Dark_Gray,_Matte
+Kd 0.3843137 0.3843137 0.3843137
+d 1
+newmtl Steel,_Paint_Finish,_Ivory,_Matte
+Kd 0.9686275 0.9686275 0.9372549
+d 1
+newmtl Steel,_Paint_Finish,_Ivory,_Glossy
+Kd 0.9686275 0.9686275 0.9372549
+d 1
+newmtl Steel,_Chrome_Plated
+Kd 0.06666667 0.06666667 0.06666667
+d 1
+newmtl Porcelain,_Linen
+Kd 0.9764706 0.9372549 0.9019608
+d 1
+newmtl Laminate,_Linen,_Matte
+Kd 0.9764706 0.9372549 0.9019608
+d 1
+newmtl Default_material
+Kd 0.5882353 0.5882353 0.5882353
+d 1
+newmtl Counter_Top
+Kd 0.8862745 0.6941177 0.5019608
+d 1
+newmtl Porcelain,_Ivory
+Kd 0.9686275 0.9686275 0.9372549
+d 1
+newmtl Default_Floor
+Kd 0.4980392 0.4980392 0.4980392
+d 1
+newmtl Metal_-_Steel
+Kd 0.7803922 0.7803922 0.7803922
+d 1
+newmtl LB_RAIL_WOOD
+Kd 0.5411765 0.4 0.1411765
+d 1
+newmtl LB_RAIL_METAL
+Kd 0.8313726 0.5490196 0.4313726
+d 1
+newmtl Elevator_Door
+Kd 0.2235294 0.2235294 0.2235294
+d 1
+newmtl Metal_-_Painted_-_Grey
+Kd 0.4078431 0.4078431 0.4078431
+d 1
+newmtl Metal_-_Paint_Finish_-_Grey
+Kd 0.4078431 0.4078431 0.4078431
+d 1
+newmtl Wood_-_Birch
+Kd 0.6509804 0.454902 0.2039216
+d 1
+newmtl Default_Roof
+Kd 0 0.4980392 0
+d 1
+newmtl Concrete,_Cast_In_Situ
+Kd 0.7529412 0.7529412 0.7529412
+d 1
+newmtl Site_-_Grass
+Kd 0.3058824 0.3921569 0.2941177
+d 1
+newmtl Site_-_Asphalt
+Kd 0.2745098 0.2705882 0.2745098
+d 1
